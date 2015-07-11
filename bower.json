@@ -1,0 +1,29 @@
+{
+  "name": "polinaspmk",
+  "version": "0.0.0",
+  "authors": [
+    "Hansen Makangiras <hansenmakangiras@gmail.com>"
+  ],
+  "description": "Official Website Polinas PMK LP3I Makassar",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "pmk",
+    "polinas",
+    "makassar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "vendor/bower_components"
+  ],
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.5",
+    "bootswatch": "~3.3.5+2"
+  }
+}
